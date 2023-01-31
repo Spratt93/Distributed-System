@@ -1,4 +1,4 @@
-# Distributed Systems project in Java
+# Database Management System project in Java
 
 ### Thread safe and balanced distribution of files amongst a series of data stores
 
