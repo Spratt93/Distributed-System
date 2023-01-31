@@ -2,7 +2,7 @@
 
 ### Thread safe and balanced distribution of files amongst a series of data stores
 
-### Allows READ, WRITE and LOAD operations
+Allows **READ**, **WRITE** and **LOAD** operations
 
 **Controller** handles most of the logic.
 **Dstore** represents a data store.
